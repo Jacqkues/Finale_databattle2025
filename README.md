@@ -1,3 +1,5 @@
+![Title](./screen.PNG)
+
 # Vignemale 
 
 Ce projet a été réalisé pour la finale du Data Battle 2025 organisé par IA Pau.
