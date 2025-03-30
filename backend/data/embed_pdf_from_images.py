@@ -14,7 +14,7 @@ from PIL import Image
 
 qdrant_client = QdrantClient(
     url=os.getenv("DATABASE_URL"),
-    api_key=os.getenv("eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhY2Nlc3MiOiJtIn0.cSE45xYWHgS9q_rbwf3186l925E7OovQEgBz6s7x_uc"),
+    api_key=os.getenv("DATABASE_KEY"),
 )
 
 colqwen_model = ColQwen2_5.from_pretrained(
