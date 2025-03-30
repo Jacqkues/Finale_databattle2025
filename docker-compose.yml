@@ -1,0 +1,32 @@
+version: "3.8"
+
+services:
+  backend:
+    build: ./backend
+    container_name: backend
+    ports:
+      - "8000:8000"
+    networks:
+      - app_network
+    environment:
+      - HF_HOME=/app/model
+      - OPENROUTER_API=
+      - GROQ_API=
+      - DATABASE_URL=
+      - DATABASE_KEY=
+
+  frontend:
+    build: ./frontend
+    container_name: frontend
+    ports:
+      - "3000:3000"
+    networks:
+      - app_network
+    environment:
+      - NEXT_PUBLIC_API_URL=http://backend:8000  # Frontend uses this URL to call backend
+    depends_on:
+      - backend
+
+networks:
+  app_network:
+    driver: bridge
