@@ -119,7 +119,7 @@ templates = Jinja2Templates(directory="templates")
 async def lifespan(app: FastAPI):
     
     print("load open router client")
-    app.open_router_api = OpenAI(base_url="https://openrouter.ai/api/v1",api_key="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")
+    app.open_router_api = OpenAI(base_url="https://openrouter.ai/api/v1",api_key=os.getenv("OPENROUTER_API"))
     print("load groq client")
     app.groq_api = OpenAI(base_url="https://api.groq.com/openai/v1", api_key=os.getenv("GROQ_API"))
     print("load ollama client")

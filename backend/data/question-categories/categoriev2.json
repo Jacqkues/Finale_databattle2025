@@ -1,0 +1,414 @@
+{
+  "content": [
+    {
+      "theme": "Filing Requirements & Formalities",
+      "subcategories": [
+        {
+          "name": "Minimum requirements for a filing date",
+          "questions": [
+            "For each of the statements 9.1–9.4, indicate on the answer sheet whether the statement\nis true or false:\n\n9.1 The EPO will accord a date of filing to a European patent application filed by an\nidentifiable applicant using EPO Form 1001, even if the description is filed in\nChinese.\n\n9.2 If a request for grant is not filed on a form drawn up by the EPO, an application\nfiled together with that request will not be dealt with as a European patent\napplication.\n\n9.3 If an international application contains no part which on the face of it appears to\nbe a claim or claims, a date of filing will not be accorded to that international\napplication.\n\n9.4 A Japanese citizen resident in Japan may validly file a European patent\napplication without being represented by a professional representative.",
+            "What documents are required on the filing date for the epo to accord a filing date?",
+            "How is the filing date affected if claims are missing initially?",
+            "If no reference to any drawing is included, can missing drawings be submitted later without a change in the filing date?"
+          ]
+        },
+        {
+          "name": "Filing methods and locations",
+          "questions": [
+            "Which epo offices can receive an ep application filed via fax?",
+            "How do the rules differ for filing with the epo vs. National patent offices?"
+          ]
+        },
+        {
+          "name": "Formality examination",
+          "questions": [
+            "Company C files a European patent application for an invention which has been displayed at an officially recognised international exhibition. The exhibition closes two weeks after the invention was first displayed. Rule 25(d) EPC states that a suitable certificate must be filed within four months of the filing of the European patent application. Three months after filing the application, the applicant approaches the authority responsible for the protection of industrial property at the exhibition and obtains a certificate stating the information required according to Rule 25 EPC. The certificate is filed within the four-month period together with the authenticated identification of the invention. Will the certificate be accepted by the EPO?\n \nNo, the certificate was not issued at the exhibition.\n \nYes, the certificate was filed within the specified four-month period.",
+            "European patent application EP-1 is filed on 10 December 2020, but the inventor is not designated. The designation of the inventor is filed on 25 February 2022. Will the application be refused?\\n \\nA.\\tNo. The designation of the inventor was filed in due time.\\nB.\\tYes. The designation of the inventor was not filed in due time.",
+            "In which of the following situations must an authorization be filed?\\nWhat will be the consequence if an authorisation is not filed in due time?\\n \\nA.\\tAn authorised representative files a new European patent application. \\nB.\\tAn employee files an opposition on behalf of their employer.\\nC.\\tA legal practitioner who is not an employee of the applicant files a new European patent application.\\nD.\\tAn authorised representative takes over representation in a previously filed European patent application.\\nE.\\tAn authorised representative files an international application with the EPO as receiving office.\\nF.\\tAn authorised representative withdraws a priority claim in an international application.",
+            "The applicants for international application PCT-1 are based in Japan. Having regard to the provisions of the EPC and the PCT, can the applicants themselves comply with the requirements of Rule 159(1) EPC?\n \nA.\tNo, a professional representative must be appointed.\nB.\tNo, a professional representative or appropriate legal representative must be appointed.\nC.\tYes, the applicants can themselves comply with the requirements of Rule 159(1) EPC.",
+            "What happens if the request for grant (form 1001) is not correctly completed?",
+            "What is the procedure if the formalities officer notes a missing inventor designation?"
+          ]
+        }
+
+      ]
+    },
+    {
+      "theme": "Priority Claims & Right of Priority",
+      "subcategories": [
+        {
+          "name": "Substantive requirements for priority",
+          "questions": [
+            "Anna, a French citizen, validly filed a French patent application FR-1 on\n06 February 2020. On 08 February 2021 she filed an international\napplication PCT-1 in respect of the same subject-matter as FR-1 at the\nEPO. Anna intends for PCT-1 to claim priority from FR-1.\n\nFor each of the statements 2.1 – 2.4, indicate on the answer sheet\nwhether the statement is true or false:\n\n2.1 PCT-1 can validly claim priority from FR-1.\n\n2.2 Anna can validly file the priority declaration in May 2021.\n\n2.3 PCT-1 cannot validly claim priority from FR-1, if FR-1 has been\nabandoned before the filing of PCT-1.\n\n2.4 The filing fee for PCT-1 shall be paid directly to the International\nBureau.",
+            "A French patent application FP2, including claim 1 related to subject-matter A and claim 2 related to A+B, is filed validly claiming priority from an earlier French patent application FP1 related to subject-matter A and filed ten months earlier.\\nFP1 is still pending. No relevant prior art has been discovered regarding subject-matter A or A+B. Ten months after the filing of FP2, the applicant instructs you to file a European patent application EP1 identical to and claiming priority from FP2 and if possible from FP1. They also ask about the likely outcome of the EP1. What do you tell them, based on our current knowledge of the situation?\\nA.\\tBoth priority claims are valid and EP1 may be granted with both claims 1 and 2.\\nB.\\tEP1 cannot validly claim priority from FP1 but the priority from FP2 is valid and EP1 may be granted with both claims 1 and 2.\\nC.\\tEP1 cannot validly claim priority from FP1, which becomes prior art for subject-matter A. Claim 1 will not be granted in EP1.",
+            "What conditions must be fulfilled for a valid priority claim from an earlier application?",
+            "Does the priority application need to disclose every feature claimed in the subsequent filing?"
+          ]
+        },
+        {
+          "name": "Time limits and restoration",
+          "questions": [
+            "Anna, a French citizen, validly filed a French patent application FR-1 on\n06 February 2020. On 08 February 2021 she filed an international\napplication PCT-1 in respect of the same subject-matter as FR-1 at the\nEPO. Anna intends for PCT-1 to claim priority from FR-1.\n\nFor each of the statements 2.1 – 2.4, indicate on the answer sheet\nwhether the statement is true or false:\n\n2.1 PCT-1 can validly claim priority from FR-1.\n\n2.2 Anna can validly file the priority declaration in May 2021.\n\n2.3 PCT-1 cannot validly claim priority from FR-1, if FR-1 has been\nabandoned before the filing of PCT-1.\n\n2.4 The filing fee for PCT-1 shall be paid directly to the International\nBureau.",
+            "You file a European patent application EP-1 in February 2023 on behalf of the applicant. In October 2023 you are informed that EP-1 should have claimed priority from United States patent application US-1 filed in March 2022. Is it possible to add the priority declaration to EP-1?\n \nA.\tNo. More than 16 months have elapsed since the filing of US-1.\nB.\tYes. EP-1 was filed within 12 months of US-1, so is entitled to claim priority.",
+            "What is the legal effect of failing to file a priority document for a European patent application?\n \nNone. The priority document can be filed at any time.\n \nThe European patent application will be deemed withdrawn if a priority document is not filed within 16 months of the earliest priority date (or any additional period permitted by the EPO).\n \nThe right of priority will be lost if a priority document is not filed within 16 months of the earliest priority date (or any additional period permitted by the EPO).",
+            "International application PCT-1 claims priority from Korean utility model \napplication KR-U1. Is a translation of the priority document required on \nentry into the European regional phase?\n \nA.\tA translation into the language of the proceedings is required within two months of the end of the 31-month period for entering \nthe EPO regional phase.\nB.\tA translation into one of the official EPO languages is required within two months of the end of the 31-month period for entering the EPO regional phase.\nC.\tNo translation is required unless the validity of the priority claim is relevant to patentability.\nD.\tNo translation is required if a declaration is submitted that the European patent application is a complete translation of the priority application.",
+            "How is the 12-month priority period calculated when it ends on a weekend?",
+            "What evidence must be provided to restore priority under rule 26bis.3 pct?"
+          ]
+        },
+        {
+          "name": "Multiple priorities and partial priority",
+          "questions": [
+            "International application PCT-1 claims priority from Korean utility model \napplication KR-U1. Is a translation of the priority document required on \nentry into the European regional phase?\n \nA.\tA translation into the language of the proceedings is required within two months of the end of the 31-month period for entering \nthe EPO regional phase.\nB.\tA translation into one of the official EPO languages is required within two months of the end of the 31-month period for entering the EPO regional phase.\nC.\tNo translation is required unless the validity of the priority claim is relevant to patentability.\nD.\tNo translation is required if a declaration is submitted that the European patent application is a complete translation of the priority application.",
+            "Can a single claim contain subject-matter from two different priority dates?",
+            "How to split claims into portions entitled to partial priority?"
+          ]
+        }
+      ]
+    },
+    {
+      "theme": "Divisional Applications",
+      "subcategories": [
+        {
+          "name": "Filing requirements",
+          "questions": [
+            "Roberto and Mario are Brazilian citizens living in São Paolo, Brazil. They are the\napplicants for European patent application EP1, which has been filed today in\nPortuguese together with a French translation. EP1 claims the priority of a previous\nBrazilian application P1. Starting from the same conditions as outlined above in",
+            "European patent application EP-P was filed as a first filing on 16 December 2018. EP-P was \npublished on 17 June 2020. Application EP-P-DIV1 was filed with the EPO on 06 December \n2019 as a divisional application from EP-P. A second divisional application from EP-P (EP-P-\nDIV2) was filed with the EPO on 06 November 2020. \nToday, EP-P is still pending. Some of the claims of EP-P-DIV2 contain subject-matter that was \nnot originally disclosed in EP-P. \n \n3.1 \nEP-P-DIV1 was not validly filed as a divisional application of EP-P, because EP-P-\nDIV1 was filed before the publication of EP-P. \n \nFALSE.- The earlier patent application must be pending (Rule 36(1) EPC). There is no \nrequirement that the earlier patent application is published. \n \n \n3.2 \nIf EP-P was filed in Portuguese and translated into English, EP-P-DIV1 must be filed \nin English. \n \nFALSE. EP-DIV1 may be filed in the language on which the earlier application was filed \n(Portuguese) or translated (English)( Rule 36(2) EPC). \n \n \n3.3 \nFor EP-P-DIV2 an additional fee as part of the filing fee for a divisional \napplication of a second generation had to be paid. \n \nFALSE - EP-DIV2, as it derives from EP-P, is not a second generation divisional \napplication. Thus, an additional fee in accordance with R. 38(4) EPC and Art. 2(1b) RRF \nhas not to be paid. \n \n \n3.4 \nEP-P will be regarded as prior art under Art. 54(2) EPC against EP-P-DIV2. \n \nFALSE – According to Article 76(1) EPC, the date of filing is that of the earlier \napplication. Even if EP-DIV2 contains subject-matter extending beyond the content of \nthe earlier application as originally filed, it cannot be converted to an independent \napplication taking 6 November 2020 as its date of filing (G1/05 and G1/06, GL C-IX, \n1.4). Therefore, the filing date of EP-DIV2 remains 16 December 2018 and EP-P is not \nprior art under Art. 54(2) EPC.",
+            "A European patent application EP-A is refused in a decision dated 1 June 2023. Today is 15 July 2023. Is it still possible to file a divisional application from EP-A? \nA.\tYes.\nB.\tNo.\nC.\tOnly if the decision to refuse the application is appealed.",
+            "In response to a Rule 71(3) communication you have filed, on the 2 April 2023, the required translations of the claims and paid the grant fee. Today, the 3 May 2023, you receive the decision to grant, dated 28 April 2023. The decision states that the mention of the grant will be published on the 24 May 2023. What is/was the last day a divisional application may be filed?\n \nA.\t2 April 2023\nB.\t28 April 2023\nC.\t8 May 2023\nD.\t23 May 2023\nE.\t24 May 2023",
+            "By what date must a divisional be filed if the parent is due to grant?",
+            "Can a divisional be filed in a different language than its parent?"
+          ]
+        },
+        {
+          "name": "Subject-matter and scope",
+          "questions": [
+            "European patent application EP-P was filed as a first filing on 16 December 2018. EP-P was \npublished on 17 June 2020. Application EP-P-DIV1 was filed with the EPO on 06 December \n2019 as a divisional application from EP-P. A second divisional application from EP-P (EP-P-\nDIV2) was filed with the EPO on 06 November 2020. \nToday, EP-P is still pending. Some of the claims of EP-P-DIV2 contain subject-matter that was \nnot originally disclosed in EP-P. \n \n3.1 \nEP-P-DIV1 was not validly filed as a divisional application of EP-P, because EP-P-\nDIV1 was filed before the publication of EP-P. \n \nFALSE.- The earlier patent application must be pending (Rule 36(1) EPC). There is no \nrequirement that the earlier patent application is published. \n \n \n3.2 \nIf EP-P was filed in Portuguese and translated into English, EP-P-DIV1 must be filed \nin English. \n \nFALSE. EP-DIV1 may be filed in the language on which the earlier application was filed \n(Portuguese) or translated (English)( Rule 36(2) EPC). \n \n \n3.3 \nFor EP-P-DIV2 an additional fee as part of the filing fee for a divisional \napplication of a second generation had to be paid. \n \nFALSE - EP-DIV2, as it derives from EP-P, is not a second generation divisional \napplication. Thus, an additional fee in accordance with R. 38(4) EPC and Art. 2(1b) RRF \nhas not to be paid. \n \n \n3.4 \nEP-P will be regarded as prior art under Art. 54(2) EPC against EP-P-DIV2. \n \nFALSE – According to Article 76(1) EPC, the date of filing is that of the earlier \napplication. Even if EP-DIV2 contains subject-matter extending beyond the content of \nthe earlier application as originally filed, it cannot be converted to an independent \napplication taking 6 November 2020 as its date of filing (G1/05 and G1/06, GL C-IX, \n1.4). Therefore, the filing date of EP-DIV2 remains 16 December 2018 and EP-P is not \nprior art under Art. 54(2) EPC.",
+            "How is added subject-matter assessed in a divisional relative to the parents original disclosure? (compliance with article 76epc)",
+            "Can a divisional cover an invention that was excluded from the parents search due to lack of unity?"
+          ]
+        },
+        {
+          "name": "Fees for divisionals",
+          "questions": [
+            "When are renewal fees due for a divisional application compared to its parent?",
+            "Is any reduction possible for the filing or examination fee of a divisional?"
+          ]
+        }
+      ]
+    },
+    {
+      "theme": "Fees, Payment & Time Limits",
+
+      "subcategories": [
+        {
+          "name": "Types and calculation of fees",
+          "questions": [
+            "The European patent application EP-A was filed on 07 September 2017.\nThe mention of grant of the patent was published in the European Patent\nBulletin on 10 February 2021. The applicant validly filed a divisional\napplication from EP-A (EP-A-DIV) on 05 February 2021.\n\nFor each of the statements 1.1 – 1.4, indicate on the answer sheet\nwhether the statement is true or false:\n\n1.1 The renewal fee for EP-A in respect of the third year could have\nbeen validly paid on 03 May 2019.\n\n1.2 The renewal fee for EP-A in respect of the fourth year was due on\n07 September 2020.\n\n1.3 The renewal fee for EP-A in respect of the fifth year shall be paid to\nthe EPO.\n\n1.4 All renewal fees due in respect of EP-A-DIV can be validly paid\nwithout an additional fee on 07 June 2021.",
+            "The first communication from the examining division concerning a European patent application is unexpectedly negative. The applicant decides not to proceed further with the application. Can the applicant get a refund of fees in this situation?\\n \\nYes\\nNo",
+            "How are excess claims fees calculated if claims are amended during examination?",
+            "When must the search fee be paid if the epo acts as isa under the pct?"
+          ]
+        },
+        {
+          "name": "Payment mechanisms",
+          "questions": [
+            "The time limit for paying the examination fee for a European patent application ends on 18 August 2023. The applicant wishes to pay by bank transfer and wants to make absolutely sure that no additional fees have to be paid even if the payment is delayed due to unforeseen circumstances. What can he do?\n1.\tNothing. If the payment is received too late by the EPO it will be considered not to have been made.\n2.\tEffect the payment no later than 13 August 2023.\n3.\tEffect the payment no later than 8 August 2023.\n4.\tIt is sufficient to effect the payment on the last day for payment, that is on 18 August 2023.",
+            "How does an automatic debit order work and what happens if the deposit account lacks funds?",
+            "Can multiple applicants share a single deposit account for fee payment?"
+          ]
+        },
+        {
+          "name": "Fee deadlines and late payment consequences",
+          "questions": [
+            "The European patent application EP-A was filed on 07 September 2017.\nThe mention of grant of the patent was published in the European Patent\nBulletin on 10 February 2021. The applicant validly filed a divisional\napplication from EP-A (EP-A-DIV) on 05 February 2021.\n\nFor each of the statements 1.1 – 1.4, indicate on the answer sheet\nwhether the statement is true or false:\n\n1.1 The renewal fee for EP-A in respect of the third year could have\nbeen validly paid on 03 May 2019.\n\n1.2 The renewal fee for EP-A in respect of the fourth year was due on\n07 September 2020.\n\n1.3 The renewal fee for EP-A in respect of the fifth year shall be paid to\nthe EPO.\n\n1.4 All renewal fees due in respect of EP-A-DIV can be validly paid\nwithout an additional fee on 07 June 2021.",
+            "Most fees for European patent applications cannot be paid before their due date. One exception is renewal fees, which can always be paid up to:\nA.\tThree months before the due date.\nB.\tSix months before the due date.\nC.\tOne year before the due date.",
+            "Today is 28 March 2023. Following national proceedings for entitlement of European patent application EP-1, the successful party has elected to file a new application under Article 61(1)(b) EPC. EP-1 was filed on 12 April 2019 and the new application, EP-2, was filed on 10 January 2023.  What is the last day for paying the first renewal fee that is payable for the new application, without surcharge (i.e. not including the fees for past renewals)?\\n \\nA.\\t31 January 2023.\\n \\nB.\\t2 May 2023.",
+            "The first communication from the examining division concerning a European patent application is unexpectedly negative. The applicant decides not to proceed further with the application. Can the applicant get a refund of fees in this situation?\\n \\nYes\\nNo",
+            "What surcharge applies if renewal fees are not paid by the due date?",
+            "How can an applicant avoid loss of rights if a fee payment is overlooked?"
+          ]
+        }
+      ]
+    },
+    {
+      "theme": "Languages & Translations",
+      "subcategories": [
+        {
+          "name": "Language of filing and procedural language",
+          "questions": [
+            "Roberto and Mario are Brazilian citizens living in São Paolo, Brazil. They are the\napplicants for European patent application EP1, which has been filed today in\nPortuguese together with a French translation. EP1 claims the priority of a previous\nBrazilian application P1.\n\nFor each of the statements 5.1–5.4, indicate on the answer sheet whether the statement\nis true or false:\n\n5.1 Roberto and Mario are entitled to a reduction of the filing fee.\n\n5.2 EP1 will be accorded by the EPOa filing date, only if the content of EP1 does not\nextend beyond the content of P1 as originally filed.\n\n5.3 If the French translation had not been filed in due time, EP1 would be deemed not\nto have been filed.\n\n5.4 If EP1 is assigned to a British company, the language of the proceedings may be\nchanged to English after registration of the transfer.",
+            "European patent application EP-F has been filed in French and oral\nproceedings have been scheduled before the examining division. At the\nbeginning of the oral proceedings, the professional representative\nrequests to speak in English without providing for interpretation into\nFrench. He also requests that the minutes be written in English and\ndeclares that he is aware that, if both his requests are permitted, no\ninterpretation and translation into French will be provided, neither for the\noral proceedings nor for the minutes.\n\nFor each of the statements 9.1 –9.4, indicate on the answer sheet\nwhether the statement is true or false:\n\n9.1 The examining division may reject the request to speak English in\nthe oral proceedings, even though English is an official language of\nthe EPO.\n\n9.2 The examining division may agree to the request that the minutes\nbe written in English, except for amendments to EP-F, which will be\nentered in the minutes in French.\n\n9.3 During the oral proceedings, the representative can validly file a\nnew amended set of claims in English.\n\n2021/P/EN/14\n9.4 If the examining division agrees, the representative may make a\npart of his oral statements during the oral proceedings in\nSwedish.",
+            "How long after filing must a translation be submitted if the application was filed in italian?"  ,
+            "Which official language of the epo becomes the language of proceedings if multiple languages are used?"
+          ]
+        },
+        {
+          "name": "Translation requirements on grant or other stages",
+          "questions": [
+            "What is required if the text intended for grant is not in the applicant’s preferred official language? ( claim translations under rule 71(3) epc, translation for validation in national phases. )",
+            "Does the applicant need to file translations in all contracting states after grant?"
+          ]
+        },
+        {
+          "name": "Effects of language on costs and procedural rights",
+          "questions": [
+            "You represent an individual applicant from Spain who has filed a European patent application in Spanish and satisfied all the requirements for filing. Examination was requested in Spanish at the time of filing the application. The examination and designation fees are due by 7 November 2023 and the applicant has asked you whether he is entitled to a reduction of 20% in the examination fee. What is the correct answer?\n\n\nA.\tThe applicant is entitled to a reduction of 20% in the examination fee under Rule 6(3) EPC and Article 14(1) RFees.\n \nB.\tThe applicant is entitled to a reduction in the examination fee under Rule 6(3)EPC and Article 14(1) RFees, but the reduction is not 20%.",
+            "In the case of applicants entitled to a fee reduction under Rule 6(3) EPC, does the fee reduction include the additional fee for pages in excess of 35?\n \nA.\tYes\nB.\tNo",
+            "What reduction in examination fees applies for a university filing in an official language of an epc contracting state?",
+            "Can an applicant who filed in spanish benefit from a fee reduction?"
+          ]
+        }
+      ]
+    },
+    {
+      "theme": "Procedural Remedies & Legal Effect",
+      "subcategories": [
+        {
+          "name": "Further processing (rule 135 epc)",
+          "questions": [
+            "Is the following statement true or false?\n \nWhen proceedings for grant of a European patent application are stayed following the institution of entitlement proceedings, renewal fees which fall due during the period of stay can be paid up to the date of resumption of the proceedings for grant.\n \nA.\tTrue\nB.\tFalse",
+            "You represent a client whose European patent has been opposed. The opposition division decides to maintain the patent in amended form. The invitation with the three-month time limit under Rule 82(2) EPC is sent on 16 August 2021, but proceedings are interrupted under Rule 142 EPC on 20 October 2021. The problems are resolved and the proceedings resume on 16 January 2022. When does the time limit under Rule 82(2)EPC end?\n \nA \t19 April 2022\n \nB \t30 April 2022",
+            "For which official time limits is further processing not available?",
+            "How must an applicant request further processing after failing to respond to an examination report?"
+          ]
+        },
+        {
+          "name": "Re-establishment of rights (article 122 epc)",
+          "questions": [
+            "Is the following statement true or false?\n \nWhen proceedings for grant of a European patent application are stayed following the institution of entitlement proceedings, renewal fees which fall due during the period of stay can be paid up to the date of resumption of the proceedings for grant.\n \nA.\tTrue\nB.\tFalse",
+            "You represent a client whose European patent has been opposed. The opposition division decides to maintain the patent in amended form. The invitation with the three-month time limit under Rule 82(2) EPC is sent on 16 August 2021, but proceedings are interrupted under Rule 142 EPC on 20 October 2021. The problems are resolved and the proceedings resume on 16 January 2022. When does the time limit under Rule 82(2)EPC end?\n \nA \t19 April 2022\n \nB \t30 April 2022",
+            "What steps demonstrate “all due care” to justify re-establishment?",
+            "When does the two-month time limit for re-establishment start running if an applicant misses a final deadline?"
+          ]
+        },
+        {
+          "name": "Loss of rights and remedies",
+          "questions": [
+            "Is the following statement true or false?\n When proceedings for grant of a European patent application are stayed following the institution of entitlement proceedings, renewal fees which fall due during the period of stay can be paid up to the date of resumption of the proceedings for grant.\n \nA.\tTrue\nB.\tFalse",
+            "You represent a client whose European patent has been opposed. The opposition division decides to maintain the patent in amended form. The invitation with the three-month time limit under Rule 82(2) EPC is sent on 16 August 2021, but proceedings are interrupted under Rule 142 EPC on 20 October 2021. The problems are resolved and the proceedings resume on 16 January 2022. When does the time limit under Rule 82(2)EPC end?\n \nA \t19 April 2022\n \nB \t30 April 2022",
+            "When is a communication under rule 112(1) epc issued, and how to react?",
+            "Is an appeal possible against a deemed withdrawal?"
+          ]
+        }
+      ]
+    },
+    {
+      "theme": "PCT Procedure & Entry into EP Phase",
+      "subcategories": [
+        {
+          "name": "International filing and search",
+          "questions": [
+            "Jan, a US national and resident of living in the USA, filed an international application\nPCT-J with the USPTO on 10 January 2022. On filing, Jan indicated the EPO as one of\nthe designated Offices. The EPO was immediately informed of its designation.\nThe USPTO charges the late payment fee for a delayed payment of the international\nfiling fee as allowed under the PCT.\n\nFor each of the statements 8.1–8.4, indicate on the answer sheet whether the statement\nis true or false:\n\n8.1 Jan must pay the international filing fee to the International Bureau.\n\n8.2 If the international filing fee is not paid in due time, Jan can validly pay the\ninternational filing fee together with the late payment fee within a time limit of one\nmonth from the date of the invitation sent by the receiving Office.\n\n8.3 A consequence of not paying the international filing fee with the late payment fee\nwithin the prescribed time limit is that the USPTO will declare that PCT-J is\nconsidered to be withdrawn.\n\n8.4 A consequence of not paying the international filing fee with the late payment fee\nwithin the prescribed time limit is that the USPTO will notify the EPO as the\ndesignated Office that PCT-J is considered to be withdrawn.",
+            "You are informed that one of the inventors named in an international application is incorrect. The application names Mr Y, but the correct inventor is Mrs Z. \nWhat should you do?\n \nObtain the consent of Mr Y to rectification of the inventor before filing a request at the International Bureau with details of the correct inventor.\n \nFile a request for rectification at the International Bureau with details of the correct inventor.",
+            "You are informed that one of the inventors named in an international application is incorrect. The application names Mr Y, but the correct inventor is Mrs Z. \\nWhat should you do?\\n \\nObtain the consent of Mr Y to rectification of the inventor before filing a request at the International Bureau with details of the correct inventor.\\n \\nFile a request for rectification at the International Bureau with details of the correct inventor.",
+            "Two applicants resident in Germany jointly file an international application with the EPO as receiving office. No agent or common representative is appointed. Following receipt of the international search report, the applicants both agree that the international application should be withdrawn, so the first-named applicant on Form PCT/RO/101 sends a letter, signed by him, to the EPO as receiving office specifically withdrawing the international application. Will the application be withdrawn?\\n \\nA.\\tNo\\nB.\\tYes",
+            "Which receiving office can a us applicant choose when filing a pct application?",
+            "What happens if the applicant fails to pay the international filing fee within the deadline?"
+          ]
+        },
+        {
+          "name": "Preliminary examination and amendments",
+          "questions": [
+            "When must the demand for international preliminary examination be filed at the epo as ipea?",
+            "How are amendments under article 34 pct handled differently from article 19 pct amendments?"
+          ]
+        },
+        {
+          "name": "European phase entry and requirements",
+          "questions": [
+            "International application PCT-1 enters the European regional phase as EP-1 today. Independent claims 1 and 10 of the international application were considered to lack unity in the international phase and a partial search report was drawn up by the EPO as ISA in respect of the invention of claim 1.  The applicant wishes to have the opportunity to protect the invention of claim 10 during the EPO regional phase, but wants to keep costs to a minimum, at least at the beginning. What can the applicant do?\\n \\nA.\\tFile a divisional application to the invention of independent claim 10 after entry into the EPO regional phase.\\nB.\\tPay an additional search fee in respect of the invention of independent claim 10 within two months of entry into the EPO regional phase.\\nC.\\tPay an additional search fee in respect of the invention of independent claim 10 within two months of notification by the EPO.",
+            "Entry into the European phase of an international application can be effected early provided an express request for early processing is made at the time the requirements of Rule 159(1) EPC are complied with. International application PCT-1 was filed 28 months ago with no claim to priority. The application consists of 20 pages, including 16 claims. The international search was carried out by the EPO acting as ISA and the international search report was published with the international application. Which of the following fees must be paid in order to effect early entry into the European phase?\\n \\nA.\\tThe filing fee.\\nB.\\tThe filing fee, the examination fee and the designation fee.\\nC.\\tThe filing fee, the examination fee, the designation fee and the renewal fee.\\nD.\\tThe filing fee, the claims fee, the examination fee, the designation fee and the renewal fee.",
+            "Following entry into the EPO regional phase, a translation of the international \napplication is not filed at the EPO in due time. How can this be remedied?\n\nA.\tThe applicant can request reinstatement of rights under Rule 49.6 PCT.\nB.\tThe applicant can file the translation, request further processing and pay the further processing fee under Rule 135 EPC within two months \nof notification by the EPO.",
+            "What are the minimum requirements to validly enter the european phase under articles 22/39 pct?",
+            "Is an additional search fee always required in the ep phase if the epo was the isa?"
+          ]
+        }
+      ]
+    },
+    {
+      "theme": "Examination, Amendments, and Grant",
+      "subcategories": [
+        {
+          "name": "Examination procedure and communications",
+          "questions": [
+            "For each of statements 11.1–11.4, indicate on the answer sheet whether it is true or\nfalse:\n\n11.1 A yoga mat consisting of poly-X is covered by the scope of claim 7.\n\n11.2 The material of claim 5 is defined by means of a functional feature.\n\n11.3 The features of claim 11 imply a limitation of the dimensions of the textile bag.\n\n11.4 The subject-matter of claim 13 lacks clarity.",
+            "The EPO may issue a communication under Rule 62a EPC in the search phase \nfor the present set of claims. \nTRUE: Yes, claim II.1 and claim II.2 are independent method claims and relate to alter-\nnative subject-matter, i.e. Rule 62a EPC applies. \n \n18.2 The subject-matter of claim II.5 is clear. \nFALSE: Claim II.5 is unclear since on the one hand the inert gas is specified as being \nonly nitrogen, but on the other hand claim II.5 is dependent on claim II.4 wherein \nthe inert gas is carbon dioxide. \n \n18.3 The presence of an inert gas is described in the application documents as an es-\nsential feature. \nFALSE: The presence of an inert gas is only a preferred feature and not an essential \nfeature (see paragraph [003] of the description). \n \n18.4 The subject-matter of claim II.6 can be introduced into the description without \ncontravening Article 123(2) EPC. \nTRUE: The subject-matter of claim II.6 is part of the application as filed and can be \nadded to the description without contravening Article 123(2) EPC.",
+            "A European patent application, EP-X, relating to invention X was filed in January 2020. EP-X \nincludes two alternative embodiments: X1 and X2. Embodiment X1 is not sufficiently disclosed \nas essential technical information is missing. Embodiment X2 is sufficiently disclosed. \n \n \n6.1 \nAn objection from the examining division under Article 83 EPC regarding \nembodiment X1 can be overcome by filing additional technical information. \n \nFALSE - The European patent application must disclose the invention in a manner \nsufficiently clear and complete for it to be carried out by a person skilled in the art \n(Article 83 EPC). \n \n \n6.2 \nIf the examining division does not raise any objection under Article 83 EPC, lack of \nsufficiency of disclosure will not be a valid ground for opposition against the patent \ngranted on the basis of EP-X. \n \nFALSE - A valid ground for opposition is lack of sufficiency of disclosure, Article \n100(b) EPC. It is irrelevant if the examining division did not raise an objection under \nArticle 83 EPC. \n \n \n6.3 \nIf the missing essential technical information regarding embodiment X1 is present in the \nabstract, the essential technical information can be incorporated into EP-X as missing \nparts within one month from the date of filing. \n \nFALSE - The abstract is not part of the disclosure (Article 85 EPC) so including the \nessential technical information from the abstract would offend Article 123(2) EPC. \n \n \n6.4 \nAn objection from the examining division under Article 83 EPC can be \novercome by restricting EP-X to embodiment X2. \n \nTRUE - If X2 is sufficiently disclosed, a patent may be granted based on X2 \n(Guidelines F-III, 5.1).",
+            "What are the applicant’s options upon receiving an objection regarding lack of clarity under article 84?",
+            "Is an in-person hearing possible before the examining division issues a final decision?"
+          ]
+        },
+        {
+          "name": "Claim amendments and article 123 epc",
+          "questions": [
+            "For each of statements 14.1–14.4, indicate on the answer sheet whether it is true or\nfalse:\n\n14.1 A modified single claim 1 which reads “Yoga mat having a first face and a second\nface, wherein the yoga mat has an SRV of 90 or more.” would be allowable under\nArticle 123(2) EPC.\n\n14.2 A modified single claim 1 which reads “Yoga mat having a first face and a second\n\nface, wherein the yoga mat has an SRV of 90 or more.” would be clear under Arti-\ncle 84 EPC.\n\n14.3 A modified single claim 1 which reads “Yoga mat having a first face and a second\nface, wherein the first face has a coating of poly-X, the poly-X covering 100% of\nthe first face.” would be allowable under Article 123(2) EPC.\n\n14.4 A modified single claim 1 which reads “Yoga mat having a first face and a second\n\nface, wherein the first face and the second face contain silver ions.” would be al-\nlowable under Article 123(2) EPC.",
+            "The EPO may issue a communication under Rule 62a EPC in the search phase \nfor the present set of claims. \nTRUE: Yes, claim II.1 and claim II.2 are independent method claims and relate to alter-\nnative subject-matter, i.e. Rule 62a EPC applies. \n \n18.2 The subject-matter of claim II.5 is clear. \nFALSE: Claim II.5 is unclear since on the one hand the inert gas is specified as being \nonly nitrogen, but on the other hand claim II.5 is dependent on claim II.4 wherein \nthe inert gas is carbon dioxide. \n \n18.3 The presence of an inert gas is described in the application documents as an es-\nsential feature. \nFALSE: The presence of an inert gas is only a preferred feature and not an essential \nfeature (see paragraph [003] of the description). \n \n18.4 The subject-matter of claim II.6 can be introduced into the description without \ncontravening Article 123(2) EPC. \nTRUE: The subject-matter of claim II.6 is part of the application as filed and can be \nadded to the description without contravening Article 123(2) EPC.",
+            "Amending claim II.7 to recite “Method for preserving an alcoholic beverage ac-\ncording to claim II.3, wherein the inert gas is a noble gas” would not be allowable \nunder Article 123(2) EPC. \nTRUE: There is no reference to a noble gas in the application. As such claim 6 cannot \nbe directed to noble gases without contravening Article 123(2) EPC. \n \n19.2 Although argon is described as the most preferred inert gas, deleting all refer-\nences to argon from the claims would be allowable under Article 123(2) EPC. \nTRUE: Deletion of a preferred option does not add subject-matter, in particular if the de-\nscription shows other ways to achieve the claimed subject-matter.  \n \n19.3 Amending claim II.3 to recite “Method for preserving an alcoholic beverage ac-\ncording to claim II.2, wherein an inert gas is directly injected into the headspace of \nthe bottle to create a gas cap on top of the wine level” would be allowable under \nArticle 123(2) EPC. \nFalse: The amendment in claim 3 is an intermediate generalisation, since the gas cap is \ndisclosed only for argon, and not for all other inert gases. \n \n19.4 Amending claim II.2 to recite “Method for preserving an alcoholic beverage having \n10 vol.% alcohol or more, wherein the amount of oxygen in the headspace of the \nbottle is reduced” would be allowable under Article 123 (2) EPC. \nTRUE: The amendment in claim 2 “including 10 vol% alcohol or more” is based on para-\ngraph [001] of the present application. Although the amended claim II.2 omits the \nexpression “in the bottle”, this does not violate the requirements of Article 123(2) \nEPC. Amended claim II.2 still references a bottle in the second part of this claim \nwith reference to its headspace.",
+            "The applicant Mr Y filed a European patent application EP-Y. In the summons to oral \nproceedings, the examining division objected to claim 1 of EP-Y as not having an inventive step \nin view of document D1 in combination with the skilled person´s common general knowledge. \nAt the oral proceedings before the examining division, the professional representative of Mr Y \nis accompanied by Professor N. The professional representative requests that Professor N is \nallowed to make oral submissions during the oral proceedings. Professor N is a well-known \nexpert in the technical field of the patent application and has recently been awarded a Nobel \nprize for her work in that technical field. \n \nMoreover, Professor N is accompanied by five of her students who also wish to attend the oral \nproceedings. Neither the presence of Professor N nor that of her students had been \nannounced prior to the oral proceedings. \n \n \n7.1 \nThe examining division may admit auxiliary requests filed and signed by \nProfessor N during the oral proceedings. \n \nFALSE - Professor N is not the representative of the party Article 134(1) EPC Guidelines, \nE-III, 8.5, G 4/95). \n \n \n7.2 \nThe EPC does not provide for the hearing of witnesses during examination \nproceedings. \n \nFALSE - Article 117 EPC applies to any proceedings before the EPO including \nexamination proceedings so that a witness can be heard during examination \nproceedings. \n \n \n7.3 \nThe students of Professor N may attend the oral proceedings as members of the public. \n \nFALSE - Article 116(3) EPC: the oral proceedings before the examining division are not \npublic. Therefore, the students of Professor N may not attend the oral proceedings as \nmembers of the public. \n \n \n7.4 \nProfessor N has the right to make oral submissions during the oral proceedings, \nsince she must be considered by the examining division to represent the “person \nskilled in the art”. \n \nFALSE - The EPC does not provide a right for experts to make oral submissions in \nrepresentation of the skilled person. The requirements for making oral submissions as accompanying person are set in G4/95 and Guidelines E-III, 8.5.",
+            "How is an amendment evaluated for compliance with article 123(2)?",
+            "When is it permissible to delete features from the original independent claim?"
+          ]
+        },
+        {
+          "name": "Grant stage (rule 71(3) epc) and post-grant publication",
+          "questions": [
+            "What steps must be completed before the decision to grant is issued?",
+            "What happens if errors are found in the druckexemplar after paying the grant fee?"
+          ]
+        }
+      ]
+    },
+    {
+      "theme": "Opposition & Appeals",
+      "subcategories": [
+        {
+          "name": "Grounds for opposition (article 100 epc)",
+          "questions": [
+          "Hans filed an admissible notice of opposition against European patent EP-1, which was\ngranted with two independent claims, namely claim 1 and claim 2 relating respectively to\ntwo different parts of the patent. The only ground for opposition that he raised was lack\nof inventive step in respect of claim 1. The opposition is not filed against the patent as a\nwhole, but only against claim 1. In particular, he argued in the notice of opposition that\nthe subject-matter of claim 1 lacked inventive step over the combination of D1 and D2,\nboth published before the effective date of EP-1. Theresa filed third-party observations\nduring the pending opposition proceedings, arguing that claim 2 lacked novelty over D3,\na Japanese patent application published before the effective date of EP-1.\nFor the following statements, assume that the right to be heard of all parties involved\nhas been respected and no amendments have been filed during the opposition\nproceedings.\nFor each of the statements 2.1–2.4, indicate on the answer sheet whether the statement\nis true or false:\n\n2.1 If the opposition division considers that the subject-matter of claim 1 lacks novelty\nover D1, the opposition division may revoke EP-1 for lack of novelty of the\nsubject-matter of claim 1.\n2.2 If the opposition division considers that the subject-matter of claim 2 lacks\ninventive step over D2 in combination with D3, the opposition division may revoke\nEP-1 for lack of inventive step of the subject-matter of claim 2 over D2 in\ncombination with D3.\n\n2.3 If the opposition division considers that the subject-matter of claim 1 is not\nsufficiently disclosed, the opposition division may revoke EP-1 because the\nsubject-matter of claim 1 is not disclosed in a manner sufficiently clear and\ncomplete for it to be carried out by a person skilled in the art.\n\n2022/P/EN Page 2 of 27\n\n2.4 After the opposition division has considered Theresa’s third-party observations,\n\nthe opposition division may revoke EP-1 based on lack of novelty of the subject-\nmatter of claim 2.\n\n2022/P/EN Page 3 of 27",
+          "The mention of the grant of the European patent EP-G was published in the European Patent \nBulletin. Competitor B filed a notice of opposition against EP-G on the last day of the \nopposition period. \nOne month after expiry of the opposition period and following a request from the proprietor \nof EP-G to competitor Z to cease alleged infringement, competitor Z instituted proceedings \nfor a ruling that competitor Z is not infringing patent EP-G. \n \n \n5.1 \nIf the notice of opposition has not been signed by the opponent or by his \nrepresentative before expiry of the opposition period, the opposition division shall \nreject the opposition as inadmissible. \n \nFALSE - Rule 76(3) EPC in conjunction with Rule 50(3)EPC require that the notice of \nopposition is signed by the opponent or the opponent’s representative. If the notice of \nopposition has not been signed within the opposition period, the EPO will invite the \nopponent to correct this deficiency and if the opponent does not correct this deficiency \nwithin the specified time limit, the opposition is deemed not to have been filed. (Rule \n77(2) EPC in conjunction with Rule 50(3) EPC, Guidelines D-III, 3.4 and D-IV, 1.2.1 (ii) \nand D-IV, 1.4.1. \n \n \n5.2 \nCompetitor B shall file a statement setting out for the first time the grounds of \nopposition within two months from the date of filing the notice of opposition. \n \nFALSE - The notice of opposition shall contain the grounds on which the opposition is \nbased and has to be filed within 9 months of the mention of the publication of the mention \nof the grant of the EP patent (Article 99(1) and Rule 76(2)(c) EPC). \n \n \n5.3 \nProvided that the opposition proceedings are still pending, competitor Z can file an \nadmissible notice of intervention within three months of the date on which the \nproceedings for a ruling that competitor Z is not infringing patent EP- G are instituted. \n \nTRUE - Article 105(1)(b) EPC in conjunction with Rule 89(1) EPC. \n \n \n5.4 \nIf W files third party observations before expiry of the nine-month opposition period, \nW will be summoned to any oral proceedings taking place before the opposition \ndivision. \n \nFALSE – A third party filing observations does not become party to the opposition \nproceedings (Article 115 EPC last sentence) and, in consequence, W will not be \nsummoned to any oral proceedings (Rule 115(1) EPC). \n\n",
+          "In response to an opposition, the patentee introduces the features of claim 12 as granted into claim 1. Claim 12 was dependent on claim 1 and is phrased as a result to be achieved. The opponent argues that the amendment introduces a lack of clarity. Will the opposition division agree with the opponent?\\n \\nA.\\tYes. A claim feature may not be phrased as a result to be achieved.\\nB.\\tPerhaps. It depends on whether or not the feature phrased as a result to be achieved is considered to be clear.\\nC.\\tNo. Since the feature was already in the claims set the amendment does not introduce a lack of clarity.",
+          "Can an opponent rely on lack of clarity under article 84 epc as a ground for opposition?",
+          "Is lack of unity a valid ground for opposition?"
+          ]
+        },
+        {
+          "name": "Opposition procedure and admissibility",
+          "questions": [
+            "A communication pursuant to Rule 71(3) EPC has been issued for a European patent\napplication. The applicant has fulfilled all the necessary requirements. The related\ndecision to grant a European patent has been despatched on the basis of the\ndocuments (Druckexemplar) transmitted to the applicant with the communication under\nRule 71(3) EPC. The mention of the grant of the European patent has been published in\nthe European Patent Bulletin.\nHowever, in the course of the preparation of the publication of the specification of this\nEuropean patent an error arose, whereby page 2 of the description is missing in the\npublished specification of this European patent. As a result of this error, the published\nspecification of this European patent as a whole does not disclose the claimed invention\nin a manner sufficiently clear and complete for it to be carried out by a person skilled in\nthe art.\n\nFor each of the statements 10.1–10.4, indicate on the answer sheet whether the\nstatement is true or false:\n\n10.1 This error in the published specification of this European patent may be corrected\nat any time.\n\n10.2 The European patent could be revoked on the basis of an opposition based on\nthe ground of Art. 100(b) EPC because in the published specification of this\nEuropean patent the invention without page 2 of the description is not disclosed in\na manner sufficiently clear and complete for it to be carried out by a person skilled\nin the art.\n\n10.3 If the language of the grant proceedings for this European patent was English, a\nnotice of opposition may be validly filed in German.\n\n10.4 In order to request a transfer of the status of opponent to a different person during\nopposition proceedings, it is sufficient to file a declaration including the names,\naddresses and signatures of both the original opponent and the person wishing to\ntake over the status of opponent.",
+            "The mention of the grant of the European patent EP-G was published in the European Patent \nBulletin. Competitor B filed a notice of opposition against EP-G on the last day of the \nopposition period. \nOne month after expiry of the opposition period and following a request from the proprietor \nof EP-G to competitor Z to cease alleged infringement, competitor Z instituted proceedings \nfor a ruling that competitor Z is not infringing patent EP-G. \n \n \n5.1 \nIf the notice of opposition has not been signed by the opponent or by his \nrepresentative before expiry of the opposition period, the opposition division shall \nreject the opposition as inadmissible. \n \nFALSE - Rule 76(3) EPC in conjunction with Rule 50(3)EPC require that the notice of \nopposition is signed by the opponent or the opponent’s representative. If the notice of \nopposition has not been signed within the opposition period, the EPO will invite the \nopponent to correct this deficiency and if the opponent does not correct this deficiency \nwithin the specified time limit, the opposition is deemed not to have been filed. (Rule \n77(2) EPC in conjunction with Rule 50(3) EPC, Guidelines D-III, 3.4 and D-IV, 1.2.1 (ii) \nand D-IV, 1.4.1. \n \n \n5.2 \nCompetitor B shall file a statement setting out for the first time the grounds of \nopposition within two months from the date of filing the notice of opposition. \n \nFALSE - The notice of opposition shall contain the grounds on which the opposition is \nbased and has to be filed within 9 months of the mention of the publication of the mention \nof the grant of the EP patent (Article 99(1) and Rule 76(2)(c) EPC). \n \n \n5.3 \nProvided that the opposition proceedings are still pending, competitor Z can file an \nadmissible notice of intervention within three months of the date on which the \nproceedings for a ruling that competitor Z is not infringing patent EP- G are instituted. \n \nTRUE - Article 105(1)(b) EPC in conjunction with Rule 89(1) EPC. \n \n \n5.4 \nIf W files third party observations before expiry of the nine-month opposition period, \nW will be summoned to any oral proceedings taking place before the opposition \ndivision. \n \nFALSE – A third party filing observations does not become party to the opposition \nproceedings (Article 115 EPC last sentence) and, in consequence, W will not be \nsummoned to any oral proceedings (Rule 115(1) EPC). \n\n",
+            "In response to an opposition, the patentee introduces the features of claim 12 as granted into claim 1. Claim 12 was dependent on claim 1 and is phrased as a result to be achieved. The opponent argues that the amendment introduces a lack of clarity. Will the opposition division agree with the opponent?\\n \\nA.\\tYes. A claim feature may not be phrased as a result to be achieved.\\nB.\\tPerhaps. It depends on whether or not the feature phrased as a result to be achieved is considered to be clear.\\nC.\\tNo. Since the feature was already in the claims set the amendment does not introduce a lack of clarity.",
+            "Is it possible to oppose only one independent claim of a granted patent?",
+            "How does the epo handle late-filed documents in opposition?"
+          ]
+        },
+        {
+          "name": "Appeal proceedings",
+          "questions": [
+            "For each of the statements 3.1–3.4, indicate on the answer sheet whether the statement\nis true or false:\n\nA board of appeal ...\n\n3.1 ... may decide in a three-member composition without a legally qualified member.\n\n3.2 ... may exercise any power within the competence of the department which was\nresponsible for the decision appealed.\n\n3.3 ... may remit a case to the department which was responsible for the decision\nappealed for further prosecution.\n\n3.4 ... may base its decision on a fresh ground for opposition only submitted during\nthe appeal proceedings without the consent of the patentee.",
+            "European patent EP-C was opposed on the grounds of lack of novelty and lack of an \ninventive step. The opposition division rejected the opposition. The opponent filed an \nadmissible appeal against the decision of the opposition division. Appeal proceedings \nconcerning European patent EP-C are currently pending. \n \nA fresh ground of opposition under Article 100(b) EPC can now be introduced into the appeal \nprocedure… \n \n \n8.1 \n…  since the patent proprietor is party to the appeal proceedings as of right. \n \nFALSE – The criteria for the admissibility of a fresh ground of opposition as set out in \nG10/91. This situation is not a criteria for the admissibility of a fresh ground for \nopposition according to G10/91. \n \n \n8.2 \n… provided that the board of appeal considers the ground of opposition as prima facie \nrelevant, even if the patent proprietor does not agree to its introduction. \n \nFALSE - Such a fresh ground cannot be introduced by the board of appeal at this \nstage of the proceedings, even using its powers under Article 114(1) EPC (G10/91). \n \n \n8.3 \n… provided that the fresh ground is raised by third party observations under Article \n115 EPC, even if the patent proprietor does not agree to its introduction. \n \nFALSE - The same applies to third party observations under Article 115 EPC as \nthird party observations are also not one of the criteria set out in G10/91. \n \n8.4 \n… provided that the fresh ground is raised in an admissible notice of intervention filed \nduring the pending appeal proceedings, even if the patent proprietor does not agree to \nits introduction. \n \nTRUE - According to G1/94, intervention under Article 105 EPC in pending appeal \nproceedings may be based on any ground for opposition under Article 100 EPC.",
+            "During proceedings before the opposition division there is a valid intervention under Article 105 EPC. At the conclusion of the proceedings the patent is maintained in amended form. Is the assumed infringer permitted to appeal?\\n \\nA.\\tYes\\nB.\\tNo",
+            "Can a new ground for opposition be introduced during appeal without the patentee’s consent?",
+            "What is the composition of a board of appeal deciding a patent case?"
+          ]
+        }
+      ]
+    },
+    {
+      "theme": "Substantive Patent Law",
+      "subcategories": [
+        {
+          "name": "Novelty analysis",
+          "questions": [
+            "How is novelty assessed against a document that discloses a range overlapping the claimed range?",
+            "How is novelty assessed against a document that discloses a range overlapping the claimed range?",
+            "For each of statements 12.1–12.4, indicate on the answer sheet whether it is true or\nfalse:\n\n12.1 The subject-matter of claim 2 is novel over D3.\n\n12.2 A valid argument that the subject-matter of claim 4 is novel over D3 is that in D3\nthe first face is the face that is in contact with the athlete.\n\n12.3 A valid argument that the subject-matter of claim 6 is novel over D2 is that in D2\nthe yoga mat is only partially coated with a layer of poly-X.\n\n12.4 The subject-matter of claim 8 is novel over each of D1, D2, D3 and D4.",
+            "For each of statements 13.1–13.4, indicate on the answer sheet whether it is true or\nfalse:\n\n13.1 The subject-matter of claim 10 is novel over D1.\n\n13.2 The subject-matter of claim 10 is novel over D2.\n\n13.3 The present application indicates that a yoga mat made of poly-Y is more effec-\ntive than a yoga mat made of poly-X or poly-Z in reducing sweat generation on\n\nthe body of the athlete while the athlete is in contact with the yoga mat.\n\n13.4 The subject-matter of claim 13 is novel over D2.",
+            "For each of statements 15.1–15.4, indicate on the answer sheet whether it is true or\nfalse:\n\n15.1 In D2 and in the present application the material poly-X has essentially the same\npurpose.\n\n15.2 The additional features defined in claim 8, whereby the second face of the yoga\nmat contains silver ions, has the technical effect of reducing bacteria growth.\n\n15.3 The subject-matter of claim 13 solves the objective technical problem of providing\nan organic, sustainable yoga mat with respect to D1 as closest prior art.\n\n15.4 The subject-matter of claim 14 is novel over D1.",
+            "For each of statements 16.1–16.4, indicate on the answer sheet whether it is true or\nfalse:\n\n16.1 D13 destroys the novelty of the subject-matter of claim II.1.\n\n16.2 D12 destroys the novelty of the subject-matter of claim II.1.\n\n16.3 D11 destroys the novelty of the subject-matter of claim II.2.\n\n16.4 D12 destroys the novelty of the subject-matter of claim II.2.",
+            "For each of statements 17.1–17.4, indicate on the answer sheet whether it is true or\nfalse:\n\n17.1 D11 destroys the novelty of the subject-matter of claim II.3.\n\n17.2 D12 describes that wine can have a chemical reaction with a gas.\n\n17.3 D12 destroys the novelty of the subject-matter of claim II.4.\n\n17.4 D13 destroys the novelty of the subject-matter of claim II.5."
+          ]
+        },
+        {
+          "name": "Inventive step analysis",
+          "questions": [
+            "How does the examiner establish a lack of inventive step if the solution is an obvious combination of known teachings?",
+            "Can a known alternative material render the claim obvious if it provides no improved result?",
+            "For each of statements 15.1–15.4, indicate on the answer sheet whether it is true or\nfalse:\n\n15.1 In D2 and in the present application the material poly-X has essentially the same\npurpose.\n\n15.2 The additional features defined in claim 8, whereby the second face of the yoga\nmat contains silver ions, has the technical effect of reducing bacteria growth.\n\n15.3 The subject-matter of claim 13 solves the objective technical problem of providing\nan organic, sustainable yoga mat with respect to D1 as closest prior art.\n\n15.4 The subject-matter of claim 14 is novel over D1.",
+            "One valid argument as to why D11 is not the closest prior art is that D11 does not \nrequire the addition of gas. \nTRUE: A valid argument as to why D11 is not the closest prior art, is that it works ac-\ncording to a different principle (extraction of air) contrary to the invention (addition \nof gas). \n \n20.2 If D12 is selected as the closest prior art, a possible objective technical problem \ncan be formulated as how to preserve an alcoholic beverage by injecting an inert \ngas directly into the headspace of the bottle. \nFALSE: An inert gas being injected directly into the headspace of the bottle is the solu-\ntion in order to preserve the alcoholic beverage. The solution must not be used for \nthe formulation of the objective technical problem (Guidelines G-VII, 5.2). \n \n20.3 One valid argument as to why D13 is not the closest prior art is that D13 deals \nonly with the preservation of fish oil. \nFALSE: D13 does not only relate to preserving of fish oil, but also to “beer”, see para-\ngraph [003] of D13. \n \n20.4 Assuming that D13 is considered to be the closest prior art, an objective technical \nproblem to be solved may be regarded as how to reduce the amount of gas re-\nquired to remove air from above the wine level. \nTRUE: This technical problem is derivable from the last sentence of [004] of the descrip-\ntion of the application (stating that “a very small amount of argon gas is sufficient \nto create the gas cap and prevent the oxidation process”). In contrast thereto, \n[002] of the description of D13 states that a volume of nitrogen gas equal to 20 \n\n \ntimes of the volume of the headspace is needed to expel all oxygen gas from the \nheadspace."
+          ]
+        },
+        {
+          "name": "Special forms of claims",
+          "questions": [
+            "The dimethyl fumarate molecule (DMF) is known from the prior art in the following \nrespects: \nDocument D1 discloses DMF as a biocide for the treatment of clothing, shoes and \nfurniture against mould growth. \nDocument D2 concerns a patent which discloses DMF for the treatment of the skin \ndisease psoriasis and of multiple sclerosis.  \nThe prior art does not disclose any further disease that can be treated with DMF. \n \n7.1  \nThe subject-matter of the claim “DMF for use as a medicament” in a European \npatent application filed today is novel over the above-mentioned prior art. \nFalse: A first medical use of DMF cannot be claimed, since DMF is already known as \nmedicament. \n \n7.2  \nThe subject-matter of the claim “DMF for use in the treatment of cancer” in a \nEuropean patent application filed today is novel over the above-mentioned prior \nart. \nTrue: The second medical use of DMF is new over the prior art documents mentioned \nabove, since DMF is not known as a medicament for the treatment of cancer. \nGuidelines G-VI. 7.1 \n \n7.3  \nThe following claim wording is allowable in a European patent application filed \ntoday: “Use of DMF for the manufacture of a medicament for the treatment of \ncancer”. \nFalse: The so-called Swiss-type claims are not allowed in applications having an \neffective date of 29.01.2011 or later (G2/08). Guidelines G-VI, 7.1 \n \n7.4  \nThe subject-matter of the claim “DMF for use in the treatment of skin diseases” in \na European patent application filed today is novel over the above-mentioned prior \nart. \nFalse: DMF is already known for the treatment of psoriasis (a skin disease).",
+            "What is the difference between swiss-type claims and epc 2000 medical use claims?",
+            "How is novelty established for a second or further medical use?"
+          ]
+        }
+      ]
+    },
+    {
+      "theme": "Entitlement & Transfers",
+      "subcategories": [
+        {
+          "name": "Entitlement disputes (article 61 EPC)",
+          "questions": [
+            "How can proceedings be stayed if entitlement proceedings are initiated before a national court?",
+            "What is the effect on the ongoing examination of a pending entitlement dispute?",
+            "Francesca has filed a European patent application EP-F before the EPO. Francesca did\nnot develop the invention which is the subject of EP-F. In drafting EP-F Francesca used\ninformation in Andrew’s laboratory notebook, without Andrew’s consent. EP-F was\npublished in December 2017 and is still pending.\n\nFor each of the statements 1.1–1.4, indicate on the answer sheet whether the statement is\ntrue or false:\n\n1.1 Andrew can seek a stay of proceedings if he provides evidence that he has\ninstituted proceedings against Francesca seeking a decision that Andrew is entitled\nto the grant of the European patent based on EP-F.\n\n1.2 Francesca can withdraw EP-F at any time from the date on which Andrew provides\nevidence to the EPO that he has instituted proceedings against Francesca seeking\na decision that Andrew is entitled to the grant of the European patent based on\nEP-F.\n\n1.3 No renewal fee has to be paid during a stay of proceedings.\n\n1.4 Andrew can validly request that EP-F be refused no later than three months after\nthe decision recognising his entitlement to EP-F has become final."
+          ]
+        },
+        {
+          "name": "Transfers and assignments",
+          "questions": [
+            "Which documents are needed to record a transfer of rights in the european patent register?",
+            "Does a partial assignment allow different co-owners in different designated states?",
+            "Company A has filed a European patent application EP-A with the EPO. Company B has\nnegotiated with Company A the transfer of European patent application EP-A to\nCompany B.\n\nFor each of the statements 4.1–4.4, indicate on the answer sheet whether the statement\nis true or false:\n\n4.1 It is possible to validly transfer EP-A from Company A to Company B only for the\ndesignated contracting states FR and DE.\n\n4.2 The transfer of EP-A may be recorded in the European Patent Register at the\nrequest of Company B, upon production of documents providing evidence of such\ntransfer and payment of an administration fee.\n\n4.3 The transfer of a European patent application becomes effective vis-à-vis the\nEPO only when it is published in the European Patent Register.\n\n4.4 The transfer of a European patent may be recorded in the European Patent\nRegister during the opposition period.",
+            "Your Client, A Inc, is a sub-licensee under European patent application EP-1. Can the sub-licence be recorded in the European Patent Register?\\n \\nA\\tNo, it is not possible to record sub-licences in the European Patent Register.\\n \\nB\\tYes, any sub-licence can be recorded in the European Patent Register.\\n \\nC\\tYes, provided the licensee granting the sub-licence has recorded its licence in the European Patent Register.",
+            "The applicant for European patent application EP-1 has granted an exclusive license under the application. The exclusive licensee wishes to make its rights known by recording the license in the European Patent Register. \\nIs it possible to record the exclusive license?\\n \\nA.\\tNo, exclusive licenses cannot be recorded in the European Patent Register.\\nB.\\tYes, exclusive licenses can be recorded in the European Patent Register at the joint request of both the applicant and the licensee.\\nC.\\tYes, exclusive licenses can be recorded in the European Patent Register, but only by the applicant. \\nD.\\tYes, exclusive licences can be recorded in the European Patent Register by either the applicant or the licensee."
+          ]
+        },
+        {
+          "name": "Procedural consequences",
+          "questions": [
+            "At what point can the transferee begin prosecuting the application in their own name?",
+            "Is there a fee for recording a transfer at the epo?"
+          ]
+        }
+      ]
+    },
+    {
+      "theme": "Biotech and sequence listings",
+      "subcategories": [
+        {
+          "name": "Sequence listing filing and format",
+          "questions": [
+            "What are the consequences if a sequence listing is not filed upon request?",
+            "In what format must the sequence listing be provided under wipo standard st.25 or st.26?"
+          ]
+        },
+        {
+          "name": "Added subject-matter in biotech claims",
+          "questions": [
+            "How is compliance with article 123(2) epc checked for nucleotide and amino acid sequences?"
+            
+          ]
+        },
+        {
+          "name": "Specific patentability exceptions in biotech",
+          "questions": [
+            "What biotech inventions are explicitly excluded from patentability under the epc?",
+            "Does the epc allow gene editing claims for plants?"
+          ]
+        }
+      ]
+    },
+    {
+      "theme": "Unity of invention",
+      "subcategories": [
+        {
+          "name": "Unity in european applications",
+          "questions": [
+            "How does the epo handle multiple independent claims that appear unrelated?",
+            "Can the epo invite payment of additional search fees for non-unified claims during ep examination?"
+          ]
+        },
+        {
+          "name": "Unity in pct applications",
+          "questions": [
+            "What steps can an applicant take if the isa invites payment of additional search fees?",
+            "Is it possible to pursue unsearched inventions in a later european divisional?"
+          ]
+        },
+        {
+          "name": "Strategies for overcoming lack of unity",
+          "questions": [
+            "Which claims should be retained if the applicant pays no additional search fees?",
+            "How does an applicant choose the invention providing the strongest prospect of allowance?"
+          ]
+        }
+      ]
+    }
+  ]
+}
